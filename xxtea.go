@@ -1,4 +1,4 @@
-package main
+package xxtea
 
 /*
 #include <stdio.h>
